@@ -8,8 +8,8 @@ Kumpulan program dasar pengolahan data mahasiswa menggunakan C++ dan Pascal, yan
 ---
 
 ## 📂 Daftar Isi
-1. `penilaian_mahasiswa.cpp` — Input dan evaluasi kelulusan mahasiswa.
-2. `rata_rata_tinggi.cpp` — Perhitungan rata-rata tinggi badan dari array.
+1. `program-penilaian-mahasiswa.cpp` — Input dan evaluasi kelulusan mahasiswa.
+2. `rata-rata_tinggi-badan.cpp` — Perhitungan rata-rata tinggi badan dari array.
 3. `data_mahasiswa_pascal.pas` — Program sederhana input data mahasiswa menggunakan Pascal.
 
 ---
@@ -23,4 +23,5 @@ Kumpulan program dasar pengolahan data mahasiswa menggunakan C++ dan Pascal, yan
 ---
 
 **luqmanaru**
+
 Dibuat sebagai dokumentasi dan latihan dasar pemrograman struktur data dan array dalam C++ dan Pascal.
